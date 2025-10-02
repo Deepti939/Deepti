@@ -9,6 +9,7 @@ body{
     font-family: 'Times New Roman';
     background: rgb(20, 11, 8);
     color: rgb(245, 217, 165);
+    padding-bottom: 60px;
 }
 h2{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
